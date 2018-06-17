@@ -10,6 +10,6 @@ Created by Zach Valadez
 ## Project Items
 Item | What it does | Script
 --- | --- | ---
-Clean Data | Tidy Data set | [cleanData.txt]
-run_analysis.R | Analysis R Script | [run_analys.R]
-CodeBook.md | Cookbook of this project| [CodeBook.md]
+Clean Data | Tidy Data set | [cleanData.txt](https://github.com/Zach032/Getting-and-Cleaning-Data-Project/blob/master/cleanData.txt)
+run_analysis.R | Analysis R Script | [run_analys.R](https://github.com/Zach032/Getting-and-Cleaning-Data-Project/blob/master/run_analysis.R)
+CodeBook.md | Cookbook of this project| [CodeBook.md](https://github.com/Zach032/Getting-and-Cleaning-Data-Project/blob/master/CodeBook.md)
