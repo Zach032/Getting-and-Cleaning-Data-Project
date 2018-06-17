@@ -1,5 +1,6 @@
 # Getting and Cleaning Data Project
 Created by Zach Valadez
+Data set from [UCI](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ## Goal of this Project
 1) A tidy data set as described below.
